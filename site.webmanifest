@@ -1,0 +1,11 @@
+{
+  "name": "Masana WebWorks",
+  "short_name": "Masana WebWorks",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": [
+    { "src": "assets/masana-mark.png", "sizes": "1024x1024", "type": "image/png" }
+  ]
+}
